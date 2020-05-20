@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         - The function nextLevel() launches the new advanced page.
         - Feel free to modify the function to suit your program.
     */
-test thsi is added
+this is removed
 
     @Override
     public void onPointerCaptureChanged(boolean hasCapture) {
