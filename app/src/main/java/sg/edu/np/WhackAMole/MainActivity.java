@@ -26,7 +26,7 @@ test thsi is added
 
     @Override
     public void onPointerCaptureChanged(boolean hasCapture) {
-        
+
     }
 
     @Override
